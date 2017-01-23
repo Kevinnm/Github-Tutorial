@@ -26,4 +26,20 @@ If see the above message, you are now able to access Git repositories using the 
 
 If you don’t have the keychain helper already installed, you’ll see this instead:
 
+![alt tag](img/img2.png)
+
+To install the keychain helper, execute the following commands:
+
+![alt tag](img/img3.png)
+
+Once again, if the helper has been installed successfully, the terminal will give you instructions on how to use it:
+
+![alt tag](img/img4.png)
+
+If see the above message, you are now able to access Git repositories using the HTTPS method. There’s a very good chance that this is the only method you will need to access repositories and you can move on to my final notes.
+
+If you don’t see the above message, you hit a snag along the way. Try going through the keychain helper install steps again.
+
+Otherwise, if you have a specific reason that you need to access Git repositories using SSH, proceed to SSH Keys.
+
 
