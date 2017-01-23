@@ -20,4 +20,10 @@ First, check if the helper is installed by typing git credential-osxkeychain int
 
 If the helper is installed, the terminal will give you instructions on how to use it:
 
-(https://github.com/Kevinnm/GitHub-Tutorial/img/img1.png)
+![alt tag](https://github.com/Kevinnm/GitHub-Tutorial/img/img1.png)
+
+If see the above message, you are now able to access Git repositories using the HTTPS method. There’s a very good chance that this is the only method you will need to access repositories and you can move on to my final notes.
+
+If you don’t have the keychain helper already installed, you’ll see this instead:
+
+
