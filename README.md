@@ -20,3 +20,4 @@ First, check if the helper is installed by typing git credential-osxkeychain int
 
 If the helper is installed, the terminal will give you instructions on how to use it:
 
+(https://github.com/Kevinnm/GitHub-Tutorial/img/img1.png)
